@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=BasicEnemy
-comment0.text=\r\n\ class\ BasicEnemy\ creates\ any\ type\ of\ low\ level\ enemy\ to\ fight\r\n\ \r\n\ @author\ Keerthana\r\n\ @version\ 05.28.28\r\n
-comment1.params=x\ y\ type
-comment1.target=BasicEnemy(double,\ double,\ int)
-comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ BasicEnemy\r\n
-comment2.params=gc\ millis
-comment2.target=void\ draw(javafx.scene.canvas.GraphicsContext,\ int)
-numComments=3
