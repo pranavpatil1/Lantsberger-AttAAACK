@@ -1,4 +1,5 @@
 *.class
+*.ctxt
 .mtj.tmp/
 *.jar
 *.war
