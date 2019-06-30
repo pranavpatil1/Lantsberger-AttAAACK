@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=EnemyAI
+comment0.text=\r\n\ class\ EnemyAI\ controls\ many\ enemies\r\n\ makes\ it\ move\ back\ and\ forth\ on\ a\ block\ WITHOUT\ falling\ off\r\n\r\n\ @author\ Pranav\ Patil\r\n\ @version\ 05.28.18\r\n
+comment1.params=enemies\ blocks\ target
+comment1.target=EnemyAI(java.util.List,\ java.util.List,\ Fighter)
+comment1.text=\r\n\ constructor\ EnemyAI\ sets\ the\ list\ of\ enemies\ to\ handle\r\n\ @param\ enemies\ -\ list\ of\ enemies\ in\ the\ level\r\n\ @param\ blocks\ -\ list\ of\ blocks\ within\ the\ level\ including\ qBlocks\r\n\ @param\ target\ -\ the\ Fighter\ that\ the\ enemies\ are\ going\ to\ attack\r\n
+comment2.params=target
+comment2.target=void\ setTarget(Fighter)
+comment2.text=\r\n\ method\ setTarget\ -\ changes\ the\ target\ that\ the\ enemies\ are\ all\ attacking\ \:P\r\n\ @param\ target\ -\ the\ Fighter\ that\ the\ enemies\ are\ going\ to\ attack\r\n
+comment3.params=millis
+comment3.target=void\ update(int)
+comment3.text=\r\n\ method\ update\r\n\ changes\ the\ location\ of\ the\ enemy\ based\ on\ the\ time\ and\ the\ gravity\ (PhysicsBox)\r\n\ \r\n\ @param\ millis\ -\ amount\ of\ time\ passed\r\n
+numComments=4

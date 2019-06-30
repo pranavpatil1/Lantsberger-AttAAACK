@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Question
+comment1.params=answerChoices\ answer\ question\ exp
+comment1.target=Question(java.lang.String[],\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Questions\ class\ constructor\ instantiates\ the\ question,\ the\ array\ of\ answer\ choices,\ and\ the\ correct\ answer\r\n
+comment2.params=index
+comment2.target=java.lang.String\ getAnswer(int)
+comment2.text=\r\n\ method\ getAnswer\ gets\ the\ answer\ choice\ string\ numbered\ 1,\ 2,\ 3,\ 4\r\n\ @param\ \ \ number\r\n\ @return\ \ the\ answer\ string\r\n
+comment3.params=
+comment3.target=java.lang.String\ getQString()
+comment3.text=\r\n\ method\ getQuestion\ gets\ the\ question\ string\r\n\ @return\ \ the\ question\ string\r\n
+comment4.params=userAnswer
+comment4.target=boolean\ correct(java.lang.String)
+comment4.text=\r\n\ the\ correct\ method\ returns\ a\ boolean\ variable\ indicating\ whether\ the\ user\ entered\ the\ correct\ answer\r\n\ @param\:\ int\ userAnswer\ is\ the\ answer\ choice\ entered\ by\ the\ user\r\n\ @return\:\ true\ if\ the\ user\ entered\ the\ correct\ answer,\ false\ if\ the\ user\ entered\ the\ wrong\ answer\r\n
+comment5.params=
+comment5.target=void\ answerShuffle()
+comment5.text=\r\n\ shuffles\ the\ answer\ choices\ for\ the\ question\r\n\ Keerthana\r\n
+comment6.params=
+comment6.target=java.lang.String\ getExp()
+comment6.text=\r\n\ @return\ explanation\ for\ the\ correct\ answer\r\n\ \r\n
+numComments=7

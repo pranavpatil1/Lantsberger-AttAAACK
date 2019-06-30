@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=HardEnemy
+comment0.text=\r\n\ It\ represents\ a\ hard\ level\ enemy\ with\ the\ max\ damage\ that\ an\ enemy\ can\ have\r\n\ Has\ a\ healing\ feature\r\n\r\n\ @author\ (Keerthana,\ Pranav)\r\n\ @version\ (2.0)\r\n
+comment1.params=x\ y\ image
+comment1.target=HardEnemy(double,\ double,\ javafx.scene.image.Image)
+comment1.text=\r\n\ Constructor\ for\ hard\ difficulty\ enemy\r\n
+comment2.params=millis\ thl
+comment2.target=void\ update(int,\ Fighter)
+comment2.text=\r\n\ method\ update\ -\ moves\ the\ sprite\ based\ on\ velocity\ and\ time\ since\ last\ update\r\n\ @param\ millis\ -\ time\ in\ milliseconds\ since\ last\ update\r\n\ @param\ thl\ -\ Fighter,\ refers\ to\ the\ Player\ that\ is\ playing\ the\ game\r\n\ this\ method\ is\ the\ heal\ version\ meant\ especially\ for\ medium\r\n\ and\ hard\ level\ enemies\r\n\ every\ time\ the\ location\ of\ the\ enemy\ updates,\ the\ health\ is\ increased\ \r\n\ by\ 2\r\n
+comment3.params=gc\ millis
+comment3.target=void\ draw(javafx.scene.canvas.GraphicsContext,\ int)
+numComments=4

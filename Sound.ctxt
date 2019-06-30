@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Sound
+comment0.text=\r\n\ class\ Sound\ plays\ different\ kinds\ of\ sounds\ static-ly\r\n\r\n\ @author\ Pranav\ Patil\r\n\ @version\ 06.03.18\r\n
+comment1.params=file
+comment1.target=void\ loop(java.lang.String)
+comment1.text=\r\n\ method\ loop\ takes\ a\ file\ and\ plays\ it\ on\ an\ infinite\ loop\r\n\ @param\ \ \ file\ \ \ \ string\ for\ file\ path\r\n
+comment2.params=
+comment2.target=void\ run()
+comment3.params=file\ volume
+comment3.target=void\ loop(java.lang.String,\ double)
+comment3.text=\r\n\ method\ loop\ takes\ a\ file\ and\ plays\ it\ on\ an\ infinite\ loop\r\n\ @param\ \ \ file\ \ \ \ string\ for\ file\ path\r\n\ @param\ \ \ volume\ \ volume\ of\ sound\ from\ 0.0\ to\ 1.0\r\n
+comment4.params=
+comment4.target=void\ run()
+comment5.params=file
+comment5.target=void\ play(java.lang.String)
+comment5.text=\r\n\ method\ play\ takes\ a\ file\ and\ plays\ it\ once\r\n\ @param\ \ \ file\ \ \ \ string\ for\ file\ path\r\n
+comment6.params=file\ volume
+comment6.target=void\ play(java.lang.String,\ double)
+comment6.text=\r\n\ method\ play\ takes\ a\ file\ and\ plays\ it\ once\r\n\ @param\ \ \ file\ \ \ \ string\ for\ file\ path\r\n\ @param\ \ \ volume\ \ volume\ of\ sound\ from\ 0.0\ to\ 1.0\r\n
+numComments=7
